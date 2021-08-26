@@ -196,7 +196,7 @@ const IndexPage = ({ location }) => {
           >
             <div className="container mx-auto">
               <h1 className="text-2xl text-orange-500 leading-tight font-bold uppercase default">
-                Get a Backyard <br />
+                Get an Outdoor<br />
                 <span className="text-white default">
                   Drive-In Movie Theater
                 </span>
