@@ -769,8 +769,7 @@ const IndexPage = ({ location }) => {
                         Movie Theater
                       </h1>
                       <h2 className="text-white text-3xl font-light mt-4 relative leading-tight">
-                        Get a year-round wireless outdoor movie cinema and start
-                        creating unforgettable memories.
+                       
                       </h2>
                       <Link
                         to="/#cinema-packages"
