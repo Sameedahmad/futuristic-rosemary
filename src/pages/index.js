@@ -771,12 +771,7 @@ const IndexPage = ({ location }) => {
                       <h2 className="text-white text-3xl font-light mt-4 relative leading-tight">
                        
                       </h2>
-                      <Link
-                        to="/#cinema-packages"
-                        className="btn absolute mt-16"
-                      >
-                        View Cinema Packages
-                      </Link>
+                    
                     </div>
                   </div>
                 </div>
