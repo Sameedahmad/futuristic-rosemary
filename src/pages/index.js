@@ -759,7 +759,7 @@ const IndexPage = ({ location }) => {
             >
               <div className="pt-12">
                 <div className="w-full relative block">
-                  <div className=" pt-20 absolute bg-black opacity-50 w-9/12 md:w-8/12 lg:w-1/2 xl:w-5/12 h-full" />
+                  <div className=" mt-20 absolute bg-black opacity-50 w-9/12 md:w-8/12 lg:w-1/2 xl:w-5/12 h-full" />
                   <div className="container mx-auto">
                     <div className="pl-4 py-6 mt-8 max-w-lg ">
                       <h1 className="text-orange-500 text-5xl leading-home font-bold  relative">
