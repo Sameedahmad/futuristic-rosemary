@@ -763,7 +763,7 @@ const IndexPage = ({ location }) => {
                   <div className="container mx-auto">
                     <div className="pl-4 py-6 max-w-lg ">
                       <h1 className="text-orange-500 text-5xl leading-home font-bold uppercase relative">
-                        GET A BACKYARD
+                        Get an Outdoor
                       </h1>
                       <h1 className="text-white text-5xl leading-home font-bold uppercase relative">
                         MOVIE THEATER
