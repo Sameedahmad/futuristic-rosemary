@@ -761,7 +761,7 @@ const IndexPage = ({ location }) => {
                 <div className="w-full relative block">
                   <div className="absolute bg-black opacity-50 w-9/12 md:w-8/12 lg:w-1/2 xl:w-5/12 h-full" />
                   <div className="container mx-auto">
-                    <div className="pl-4 py-6 max-w-lg ">
+                    <div className="pl-4 py-6 mt-20 max-w-lg ">
                       <h1 className="text-orange-500 text-5xl leading-home font-bold  relative">
                         Get an Outdoor
                       </h1>
