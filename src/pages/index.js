@@ -766,7 +766,7 @@ const IndexPage = ({ location }) => {
                         Get an Outdoor
                       </h1>
                       <h1 className="text-white text-5xl leading-home font-bold uppercase relative">
-                        MOVIE THEATER
+                        Movie Theater
                       </h1>
                       <h2 className="text-white text-3xl font-light mt-4 relative leading-tight">
                         Get a year-round wireless outdoor movie cinema and start
