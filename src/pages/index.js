@@ -758,7 +758,7 @@ const IndexPage = ({ location }) => {
               style={{ backgroundImage: `url("/banner.jpg")` }}
             >
               <div className="pt-12">
-                <div className="mt-25 w-full relative block">
+                <div className="mt-20 w-full relative block">
                   <div className="  absolute bg-black opacity-50 w-9/12 md:w-8/12 lg:w-1/2 xl:w-5/12 h-full" />
                   <div className="container mx-auto">
                     <div className="pl-4 py-6 mt-8 max-w-lg ">
