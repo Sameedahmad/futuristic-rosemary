@@ -757,7 +757,7 @@ const IndexPage = ({ location }) => {
               className="hero-image w-full relative bg-cover bg-bottom hidden sm:block"
               style={{ backgroundImage: `url("/banner.jpg")` }}
             >
-              <div className="pt-12">
+              <div className="pt-22">
                 <div className="w-full relative block">
                   <div className="absolute bg-black opacity-50 w-9/12 md:w-8/12 lg:w-1/2 xl:w-5/12 h-full" />
                   <div className="container mx-auto">
